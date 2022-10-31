@@ -1,0 +1,519 @@
+﻿[
+  {
+    "idx": 0,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:ConventionCenter\n\nowl:Thing"
+  },
+  {
+    "idx": 1,
+    "category": ":Attraction\n\n:Gastro\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:CulturalDistricts"
+  },
+  {
+    "idx": 2,
+    "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:Resort"
+  },
+  { "idx": 3, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:TrainingFacility" },
+  { "idx": 4, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:CulturalDistricts" },
+  { "idx": 5, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:DiscountShop" },
+  {
+    "idx": 6,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:RecreationalAttraction\n\n:CulturalAttraction\n\n:ThemePark"
+  },
+  {
+    "idx": 7,
+    "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:CulturalDistricts"
+  },
+  {
+    "idx": 8,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SkiingAndSnowboarding"
+  },
+  { "idx": 9, "category": ":Place\n\nschema:Place\n\n:TerminalInfrastructure\n\n:Airport" },
+  { "idx": 10, "category": ":IndustrialAttraction\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Automobile" },
+  {
+    "idx": 11,
+    "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:PortAndHarbor\n\nowl:Thing"
+  },
+  { "idx": 12, "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:Pension" },
+  { "idx": 13, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:VillageExperience" },
+  {
+    "idx": 14,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Fortress"
+  },
+  {
+    "idx": 15,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalTrainingCenter\n\n:CulturalFacility\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  { "idx": 16, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:YouthHostel" },
+  {
+    "idx": 17,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Fortress\n\nowl:Thing"
+  },
+  {
+    "idx": 18,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Fountain"
+  },
+  {
+    "idx": 19,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HangGlidingAndParagliding"
+  },
+  { "idx": 20, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:JapaneseRestaurant\n\nowl:Thing" },
+  { "idx": 21, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:TerminalInfrastructure\n\n:HighwayRestArea" },
+  { "idx": 22, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:GoKarting" },
+  { "idx": 23, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:FiveDayMarket\n\nowl:Thing" },
+  {
+    "idx": 24,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Gate"
+  },
+  {
+    "idx": 25,
+    "category": ":Attraction\n:Place\nschema:Place\n:CulturalFacility\n:CulturalAttraction\n:ExhibitionHall"
+  },
+  { "idx": 26, "category": ":ShopAndMarket\n\n:Attraction\n\n:SpecialtyShop\n\n:Place\n\nschema:Place" },
+  { "idx": 27, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:FiveDayMarket" },
+  { "idx": 28, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:PortAndHarbor" },
+  { "idx": 29, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CraftWorkshop" },
+  {
+    "idx": 30,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SeaFishing\n\nowl:Thing"
+  },
+  { "idx": 31, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Waterfall" },
+  {
+    "idx": 32,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:Museum\n\nowl:Thing"
+  },
+  { "idx": 33, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:WesternRestaurant\n\nowl:Thing" },
+  { "idx": 34, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Valley" },
+  {
+    "idx": 35,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:SecurityAndPeaceSite\n\n:Place\n\nschema:Place\n\n:CulturalAttraction"
+  },
+  { "idx": 36, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:Club" },
+  { "idx": 37, "category": ":Place\n\nschema:Place\n\n:FerryTerminal\n\n:TerminalInfrastructure" },
+  { "idx": 38, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:FreshwaterFishing" },
+  { "idx": 39, "category": ":Attraction\n\n:ProvincialPark\n\n:NaturalAttraction\n\n:Place\n\nschema:Place" },
+  {
+    "idx": 40,
+    "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:NationalPark\n\nowl:Thing"
+  },
+  { "idx": 41, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place" },
+  { "idx": 42, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:TempleStay" },
+  {
+    "idx": 43,
+    "category": ":ShopAndMarket\n\n:Attraction\n\n:Gastro\n\n:Place\n\nschema:Place\n\n:VegetarianRestaurant"
+  },
+  {
+    "idx": 44,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:TrainingFacility\n\nowl:Thing"
+  },
+  { "idx": 45, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:Pension\n\nowl:Thing" },
+  {
+    "idx": 46,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SnorkelingAndScubaDiving"
+  },
+  {
+    "idx": 47,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:HollySite\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 48,
+    "category": ":BuildingAndStructure\n\n:ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Building\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  { "idx": 49, "category": ":IndustrialAttraction\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:FoodAndBeverage" },
+  { "idx": 50, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:TraditionalMarket" },
+  {
+    "idx": 51,
+    "category": ":OldHouse\n\n:HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 52,
+    "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:Bookstore"
+  },
+  {
+    "idx": 53,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Building\n\n:CulturalAttraction"
+  },
+  { "idx": 54, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:DepartmentStore" },
+  {
+    "idx": 55,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:ExhibitionHall"
+  },
+  {
+    "idx": 56,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:SecurityAndPeaceSite\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  {
+    "idx": 57,
+    "category": ":Attraction\n\n:ProvincialPark\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\nowl:Thing"
+  },
+  { "idx": 58, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Casino" },
+  { "idx": 59, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:DutyFreeShop\n\nowl:Thing" },
+  {
+    "idx": 60,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HistoricSite\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 61,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Casino\n\nowl:Thing"
+  },
+  { "idx": 62, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:VegetarianRestaurant\n\nowl:Thing" },
+  { "idx": 63, "category": ":Attraction\n\n:Gastro\n\n:Place\n\nschema:Place\n\n:WesternRestaurant" },
+  {
+    "idx": 64,
+    "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:Resort\n\nowl:Thing"
+  },
+  { "idx": 65, "category": ":Place\n\nschema:Place" },
+  { "idx": 66, "category": ":Place\n\nschema:Place\n\n:TerminalInfrastructure\n\n:TrainStation\n\nowl:Thing" },
+  { "idx": 67, "category": ":GuestHouse\n\n:Accommodation\n\n:Place\n\nschema:Place" },
+  { "idx": 68, "category": ":Attraction\n\n:NaturalResource\n\n:Place\n\nschema:Place\n\n:Rock" },
+  {
+    "idx": 69,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Temple"
+  },
+  {
+    "idx": 70,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:TrainingFacility"
+  },
+  { "idx": 71, "category": ":Attraction\n\n:Place\n\nschema:Place" },
+  {
+    "idx": 72,
+    "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:EcoTourismSite"
+  },
+  { "idx": 73, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:River\n\nowl:Thing" },
+  { "idx": 74, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:LightHouse" },
+  {
+    "idx": 75,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:RecreationalAttraction\n\n:CulturalAttraction\n\n:ThemePark\n\nowl:Thing"
+  },
+  { "idx": 76, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:TerminalInfrastructure\n\n:TrainStation" },
+  {
+    "idx": 77,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:University"
+  },
+  { "idx": 78, "category": ":ChineseRestaurant\n\n:Gastro\n\n:Place\n\nschema:Place" },
+  {
+    "idx": 79,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HollySite\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 80,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:MemorialHall"
+  },
+  {
+    "idx": 81,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:KayakingAndCanoeing"
+  },
+  { "idx": 82, "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:HomeStay" },
+  {
+    "idx": 83,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Bridge\n\n:Place\n\nschema:Place\n\n:CulturalAttraction"
+  },
+  { "idx": 84, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Mountain\n\nowl:Thing" },
+  { "idx": 85, "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:PrivateRoom\n\nowl:Thing" },
+  {
+    "idx": 86,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:PerformanceHall"
+  },
+  { "idx": 87, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:EcoTourismSite" },
+  { "idx": 88, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:ThemePark" },
+  { "idx": 89, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:Park\n\nowl:Thing" },
+  { "idx": 90, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:UltralightFlying" },
+  { "idx": 91, "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:PrivateRoom" },
+  { "idx": 92, "category": ":IndustrialAttraction\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:PowerPlant" },
+  {
+    "idx": 93,
+    "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:CulturalDistricts"
+  },
+  { "idx": 94, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Lake\n\nowl:Thing" },
+  {
+    "idx": 95,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:BicycleRacing\n\n:Place\n\nschema:Place\n\nowl:Thing"
+  },
+  { "idx": 96, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:PrivateRoom" },
+  { "idx": 97, "category": ":Attraction\n\n:GuestHouse\n\n:Accommodation\n\n:Place\n\nschema:Place" },
+  {
+    "idx": 98,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:WindSurfingAndJetSkiing\n\n:Place\n\nschema:Place"
+  },
+  { "idx": 99, "category": ":Gastro\n\n:Place\n\nschema:Place\n\nowl:Thing" },
+  {
+    "idx": 100,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:MonumentAndObservatory"
+  },
+  { "idx": 101, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:UniqueExperience" },
+  { "idx": 102, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SkyDiving" },
+  {
+    "idx": 103,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SkiAndSnowboardRental\n\nowl:Thing"
+  },
+  { "idx": 104, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:HotSpringAndSpa" },
+  { "idx": 105, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:BarAndCafe" },
+  {
+    "idx": 106,
+    "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:EcoTourismSite\n\nowl:Thing"
+  },
+  { "idx": 107, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:VegetarianRestaurant" },
+  {
+    "idx": 108,
+    "category": ":IndustrialAttraction\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:ElectronicAndSemiconductor"
+  },
+  {
+    "idx": 109,
+    "category": ":Statue\n\n:BuildingAndStructure\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction"
+  },
+  { "idx": 110, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:KoreanRestaurant\n\nowl:Thing" },
+  { "idx": 111, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:IceSkating" },
+  { "idx": 112, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Sledding\n\n:Place\n\nschema:Place" },
+  {
+    "idx": 113,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:MovieTheater\n\n:CulturalAttraction"
+  },
+  { "idx": 114, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:KoreanRestaurant" },
+  { "idx": 115, "category": ":IndustrialAttraction\n\n:Attraction\n\n:Place\n\nschema:Place" },
+  { "idx": 116, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:NationalPark" },
+  { "idx": 117, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Golfing" },
+  { "idx": 118, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction" },
+  {
+    "idx": 119,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:Museum"
+  },
+  {
+    "idx": 120,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:ExperienceAttraction\n\n:CulturalAttraction\n\n:CulturalDistricts"
+  },
+  { "idx": 121, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:TerminalInfrastructure\n\n:Airport" },
+  {
+    "idx": 122,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:FreshwaterFishing\n\nowl:Thing"
+  },
+  {
+    "idx": 123,
+    "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:DepartmentStore\n\nowl:Thing"
+  },
+  { "idx": 124, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HorseRiding" },
+  { "idx": 125, "category": ":ChineseRestaurant\n\n:Gastro\n\n:Place\n\nschema:Place\n\nowl:Thing" },
+  {
+    "idx": 126,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:MemorialHall\n\nowl:Thing"
+  },
+  { "idx": 127, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SurvivalGame" },
+  { "idx": 128, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HorseRacing" },
+  {
+    "idx": 129,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:Library\n\n:CulturalAttraction"
+  },
+  { "idx": 130, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Beach\n\nowl:Thing" },
+  { "idx": 131, "category": ":Place\n\nschema:Place\n\n:TerminalInfrastructure\n\n:TrainStation" },
+  { "idx": 132, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:Condominium" },
+  { "idx": 133, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Trekking" },
+  { "idx": 134, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Camping" },
+  { "idx": 135, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:LightHouse\n\nowl:Thing" },
+  { "idx": 136, "category": ":Attraction\n\n:Place\n\nschema:Place\n\nowl:Thing" },
+  { "idx": 137, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:River" },
+  {
+    "idx": 138,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:ConventionCenter"
+  },
+  { "idx": 139, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Cave" },
+  {
+    "idx": 140,
+    "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:TraditionalMarket\n\nowl:Thing"
+  },
+  { "idx": 141, "category": ":Accommodation\n\n:Place\n\nschema:Place" },
+  { "idx": 142, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:JapaneseRestaurant" },
+  { "idx": 143, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:MedicalTourismSite" },
+  { "idx": 144, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Island\n\nowl:Thing" },
+  {
+    "idx": 145,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:PerformanceHall\n\nowl:Thing"
+  },
+  { "idx": 146, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place" },
+  { "idx": 147, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:CoastalAttraction" },
+  {
+    "idx": 148,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:ThemePark\n\nowl:Thing"
+  },
+  {
+    "idx": 149,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:Bookstore"
+  },
+  {
+    "idx": 150,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Palace"
+  },
+  {
+    "idx": 151,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:ArtMuseumsAndGalleries\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  {
+    "idx": 152,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Bridge\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  {
+    "idx": 153,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HollySite\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  {
+    "idx": 154,
+    "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Shops_Boutiques_OutletMall\n\nowl:Thing"
+  },
+  {
+    "idx": 155,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Trekking\n\nowl:Thing"
+  },
+  { "idx": 156, "category": ":Place\n\nschema:Place\n\n:TerminalInfrastructure\n\n:HighwayRestArea" },
+  { "idx": 157, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:MineralSpring" },
+  {
+    "idx": 158,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Temple\n\nowl:Thing"
+  },
+  { "idx": 159, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:ServicedResidence" },
+  { "idx": 160, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:MountainBiking" },
+  { "idx": 161, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Rafting" },
+  { "idx": 162, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:Pension" },
+  { "idx": 163, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:BarAndCafe\n\nowl:Thing" },
+  { "idx": 164, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:AllTerrainVehicle" },
+  { "idx": 165, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:CountryPark" },
+  {
+    "idx": 166,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Gate\n\nowl:Thing"
+  },
+  { "idx": 167, "category": ":IndustrialAttraction\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Mine" },
+  {
+    "idx": 168,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HistoricSite\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  {
+    "idx": 169,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalCenter\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 170,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:ArtMuseumsAndGalleries\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 171,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:MonumentAndObservatory\n\nowl:Thing"
+  },
+  { "idx": 172, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:WesternRestaurant" },
+  {
+    "idx": 173,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:HotSpringAndSpa\n\nowl:Thing"
+  },
+  { "idx": 174, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:RecreationalForest" },
+  { "idx": 175, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:InlineSkating" },
+  { "idx": 176, "category": ":Attraction\n:Place\n\nschema:Place" },
+  { "idx": 177, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Swimming" },
+  { "idx": 178, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:DrySaunas" },
+  { "idx": 179, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Beach" },
+  { "idx": 180, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Island" },
+  { "idx": 181, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:Park" },
+  { "idx": 182, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:TouristComplex" },
+  {
+    "idx": 183,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:TouristComplex\n\nowl:Thing"
+  },
+  { "idx": 184, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:OffRoadVehicle" },
+  { "idx": 185, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:HotAirBallooning" },
+  {
+    "idx": 186,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:ExperienceAttraction\n\n:CulturalAttraction\n\n:UniqueExperience"
+  },
+  { "idx": 187, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Shops_Boutiques_OutletMall" },
+  {
+    "idx": 188,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalCenter\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  { "idx": 189, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:HomeStay" },
+  {
+    "idx": 190,
+    "category": ":ShopAndMarket\n\n:LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SkiAndSnowboardRental"
+  },
+  { "idx": 191, "category": ":ShopAndMarket\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:DutyFreeShop" },
+  { "idx": 192, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:FamilyRestaurant" },
+  { "idx": 193, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Waterfall\n\nowl:Thing" },
+  { "idx": 194, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Mountain" },
+  {
+    "idx": 195,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:FolkVillage\n\nowl:Thing"
+  },
+  {
+    "idx": 196,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Yachting\n\nowl:Thing"
+  },
+  { "idx": 197, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Yachting" },
+  {
+    "idx": 198,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:FolkVillage"
+  },
+  { "idx": 199, "category": ":Gastro\n\n:Place\n\nschema:Place\n\n:FamilyRestaurant\n\nowl:Thing" },
+  { "idx": 200, "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:Lake" },
+  {
+    "idx": 201,
+    "category": ":Attraction\n\n:NaturalAttraction\n\n:Place\n\nschema:Place\n\n:CoastalAttraction\n\nowl:Thing"
+  },
+  {
+    "idx": 202,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:ExperienceAttraction\n\n:CulturalDistricts\n\nowl:Thing"
+  },
+  {
+    "idx": 203,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Building\n\n:CulturalAttraction\n\nowl:Thing"
+  },
+  { "idx": 204, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:BungeeJumping" },
+  { "idx": 205, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:AutoRacing" },
+  {
+    "idx": 206,
+    "category": ":Attraction\n\n:Accommodation\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:TouristComplex"
+  },
+  {
+    "idx": 207,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalTrainingCenter\n\n:CulturalFacility\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 208,
+    "category": ":Attraction\n\n:NaturalAttraction\n\n:BotanicalGarden\n\n:Place\n\nschema:Place\n\nowl:Thing"
+  },
+  { "idx": 209, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:IceClimbing" },
+  { "idx": 210, "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:RecreationalAttraction\n\n:CruiseAndSubmarine" },
+  { "idx": 211, "category": ":Attraction\n\n:Gastro\n\n:Place\n\nschema:Place\n\n:BarAndCafe" },
+  { "idx": 212, "category": ":Gastro\n\n:Place\n\nschema:Place" },
+  {
+    "idx": 213,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:Swimming\n\nowl:Thing"
+  },
+  { "idx": 214, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:BicycleRacing\n\n:Place\n\nschema:Place" },
+  { "idx": 215, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\nowl:Thing" },
+  { "idx": 216, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:Motel\n\nowl:Thing" },
+  { "idx": 217, "category": ":Attraction\n\n:NaturalAttraction\n\n:BotanicalGarden\n\n:Place\n\nschema:Place" },
+  { "idx": 218, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:ShootingRange" },
+  {
+    "idx": 219,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:CulturalAttraction\n\n:ExhibitionHall\n\nowl:Thing"
+  },
+  { "idx": 220, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SeaFishing" },
+  {
+    "idx": 221,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:AutoRacing\n\nowl:Thing"
+  },
+  {
+    "idx": 222,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:BirthPlace"
+  },
+  { "idx": 223, "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:BicycleHiking\n\n:Place\n\nschema:Place" },
+  {
+    "idx": 224,
+    "category": ":LeisureAndSportFacility\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:SkiAndSnowboardRental"
+  },
+  { "idx": 225, "category": ":Accommodation\n\n:Place\n\nschema:Place\n\n:Motel" },
+  {
+    "idx": 226,
+    "category": ":BuildingAndStructure\n\n:Attraction\n\n:Tunnel\n\n:Place\n\nschema:Place\n\n:CulturalAttraction"
+  },
+  {
+    "idx": 227,
+    "category": ":HistoricalPlace\n\n:Attraction\n\n:Place\n\nschema:Place\n\n:CulturalAttraction\n\n:Palace\n\nowl:Thing"
+  },
+  {
+    "idx": 228,
+    "category": ":Attraction\n\n:Place\n\nschema:Place\n\n:CulturalFacility\n\n:Library\n\n:CulturalAttraction\n\nowl:Thing"
+  }
+]
